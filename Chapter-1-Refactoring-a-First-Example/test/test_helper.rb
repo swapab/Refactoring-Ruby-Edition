@@ -1,0 +1,8 @@
+require 'test/unit'
+require_relative '../customer'
+require_relative '../rental'
+require_relative '../movie'
+require_relative '../default_price'
+require_relative '../regular_price'
+require_relative '../new_release_price'
+require_relative '../childrens_price'
